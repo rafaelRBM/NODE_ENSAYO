@@ -1,0 +1,8 @@
+
+ESCRITO POR RAFAEL BARRAZA Y PAWEŁ GŁOWACKI EN MARTES 05 fEBRERO DE 2019  PUBLICADO EN EMPRESA
+ 
+Hace dos semanas estaba haciendo la sesión de demostración de EMS para los desarrolladores de Delphi en Londres. ¡Eso fue muy divertido! ¿Te gustaría hacerlo tú mismo?
+En este post encontrarás los pasos detallados de mi demo. ¡Disfrutar!
+
+
+

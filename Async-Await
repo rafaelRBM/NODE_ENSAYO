@@ -1,0 +1,10 @@
+/**async awei  // Comentarios
+Creado por rafael barraza
+*/
+
+let getnombre = () =>  {
+return'Rafael Barraza Y Kleyner';
+
+}
+	
+console.log(getnombre());

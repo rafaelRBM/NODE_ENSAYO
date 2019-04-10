@@ -1,0 +1,29 @@
+
+
+service: datasnap # NOTE: update this with your service name
+
+plugins:
+  -serverless-offline
+
+provider:
+  name: aws
+  runtime: nodejs8.10
+
+
+
+functions:
+  ****************************///funccion #1
+  hello:
+    handler: handler.hello
+    /// Tipo de evento Usado... en este caso mediante una  URL-web usando HTTP  Con -->Explorador Internet
+    ///Usando or pasando parmetrso directamente en la URL.. llamado {name}.-->Para esto debera tener Instalado ..EXPRESS
+      events:
+        -http :
+          path : datasnap/{name}
+           method : get
+  ****************************///funccion #2
+    mensageria:
+      handler: hadler.mensageria
+
+
+

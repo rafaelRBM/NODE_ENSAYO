@@ -1,0 +1,6 @@
+Do-Say-See Pasos
+
+Enterprise Mobility Services (EMS) es una nueva solución llave en mano para las aplicaciones distribuidas e interconectadas de hoy en día, que ofrece un servidor de middleware fácil de implementar que aloja API personalizable y módulos de acceso a datos. Basado en tecnologías abiertas y estándar, incluidas las llamadas REST HTTP y los formatos de datos JSON, y el suministro de los principales controladores de base de datos SQL junto con una base de datos cifrada incrustada y de servidor. Con su gestión de usuarios y autenticación con análisis de usuario y API, Enterprise Mobility Services es ideal para permitir el acceso seguro desde aplicaciones móviles a bases de datos empresariales. EMS es una solución de middleware sin estado, apacible, escalable y segura.
+
+Este tutorial paso a paso lo guiará a través del proceso de creación de una aplicación de comprobación de correo electrónico utilizando  Enterprise Mobility Services  y  Delphi XE8 . La aplicación móvil va a ser muy simple. Sólo contendrá una edición y un botón. Cuando el usuario final presiona el botón, el contenido de la edición se enviará a la API REST del servicio EMS que validará si una cadena determinada es una dirección de correo electrónico válida que usa expresiones regulares .
+hola kley
